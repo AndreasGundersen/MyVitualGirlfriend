@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -46,6 +47,17 @@ namespace VirtualGirlfriend.Model
                 await Task.Delay(TimeSpan.FromSeconds(1));
             }
         }
+
+        public void Increase()
+        {
+            Debug.WriteLine(Increaseby);
+            Debug.WriteLine("før" +PropertyValue);
+            PropertyValue += 10;
+            Debug.WriteLine("efter"+PropertyValue);
+
+        }
+
+
 
         protected async void OnPropertyChanged(string propName)
         {

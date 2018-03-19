@@ -15,19 +15,19 @@ namespace VirtualGirlfriend.ViewModel
 {
     public class GirlfriendViewModel 
     {
-        //private static GirlfriendViewModel instance;
+        private static GirlfriendViewModel instance;
 
-        //public static GirlfriendViewModel Instance
-        //{
-        //    get
-        //    {
-        //        if (instance == null)
-        //        {
-        //            instance = new GirlfriendViewModel();
-        //        }
-        //        return instance;
-        //    }
-        //}
+        public static GirlfriendViewModel Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = new GirlfriendViewModel();
+                }
+                return instance;
+            }
+        }
 
         private Girlfriend g;
 
@@ -37,25 +37,15 @@ namespace VirtualGirlfriend.ViewModel
             G = new Girlfriend("Emma Watson");
         }
 
-        
-
-        //public void GiveFood()
-        //{
-
-        //    GfProperties.().Hunger = girlfriends.First().Hunger + 10;
+        public void IncreaseProperty(int i)
+        {
+            G.Properties[i].Increase();
+            Debug.WriteLine(G.Properties[0].DecreaseBy);
 
 
-        //}
+        }
 
-        //public void GiveGift()
-        //{
-        //    girlfriends.First().Happiness = girlfriends.First().Happiness + 10;
-        //}
 
-        //public void GiveDrink()
-        //{
-        //    girlfriends.First().Thirst = girlfriends.First().Thirst + 10;
-        //}
 
 
 

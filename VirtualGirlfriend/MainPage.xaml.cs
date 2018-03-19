@@ -27,21 +27,21 @@ namespace VirtualGirlfriend
             this.InitializeComponent();
         }
 
-        //private void Button_Click(object sender, RoutedEventArgs e)
-        //{
+        
 
-        //    GirlfriendViewModel.Instance.GiveFood();
-            
-        //}
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            GirlfriendViewModel.Instance.IncreaseProperty(0);
+        }
 
-        //private void Button_Click_1(object sender, RoutedEventArgs e)
-        //{
-        //    GirlfriendViewModel.Instance.GiveGift();
-        //}
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            GirlfriendViewModel.Instance.IncreaseProperty(1);
+        }
 
-        //private void Button_Click_2(object sender, RoutedEventArgs e)
-        //{
-        //    GirlfriendViewModel.Instance.GiveDrink();
-        //}
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            GirlfriendViewModel.Instance.IncreaseProperty(2);
+        }
     }
 }

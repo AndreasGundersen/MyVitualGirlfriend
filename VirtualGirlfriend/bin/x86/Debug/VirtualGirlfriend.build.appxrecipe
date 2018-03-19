@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>b150ba86-5f7c-44c7-a2b7-19ba9dc8a46d</PackageIdentityName>
     <PackageIdentityPublisher>CN=hqk200</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\VirtualGirlfriend.exe">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\VirtualGirlfriend.exe">
       <PackagePath>entrypoint\VirtualGirlfriend.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,62 +370,62 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\background.jpg">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\background.jpg">
       <PackagePath>Assets\background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Chocclate.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Chocclate.png">
       <PackagePath>Assets\Chocclate.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Drink.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Drink.png">
       <PackagePath>Assets\Drink.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Gift.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Gift.png">
       <PackagePath>Assets\Gift.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\VirtualGilfriend.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\VirtualGilfriend.png">
       <PackagePath>Assets\VirtualGilfriend.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\VirtualGirlfriend.xr.xml">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\VirtualGirlfriend.xr.xml">
       <PackagePath>VirtualGirlfriend.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\Core\VirtualGirlfriend.exe">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\Core\VirtualGirlfriend.exe">
       <PackagePath>VirtualGirlfriend.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

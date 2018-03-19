@@ -25576,11 +25576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hqk200.UNICPH.000\\source\\repos\\VirtualGirlfriend\\VirtualGirlfriend\\VirtualGirlfriend.csproj",
+      "projectUniqueName": "C:\\Users\\hqk200.UNICPH.000\\MyVitualGirlfriend\\VirtualGirlfriend\\VirtualGirlfriend.csproj",
       "projectName": "VirtualGirlfriend",
-      "projectPath": "C:\\Users\\hqk200.UNICPH.000\\source\\repos\\VirtualGirlfriend\\VirtualGirlfriend\\VirtualGirlfriend.csproj",
+      "projectPath": "C:\\Users\\hqk200.UNICPH.000\\MyVitualGirlfriend\\VirtualGirlfriend\\VirtualGirlfriend.csproj",
       "packagesPath": "C:\\Users\\hqk200.UNICPH.000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hqk200.UNICPH.000\\source\\repos\\VirtualGirlfriend\\VirtualGirlfriend\\obj\\",
+      "outputPath": "C:\\Users\\hqk200.UNICPH.000\\MyVitualGirlfriend\\VirtualGirlfriend\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

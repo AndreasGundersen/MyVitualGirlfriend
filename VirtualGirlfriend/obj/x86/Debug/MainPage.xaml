@@ -28,17 +28,18 @@
             <Image Source="Assets/VirtualGilfriend.png" Grid.Column="1" Grid.Row="0"></Image>
             <TextBlock Grid.Column="1" Grid.Row="0" FontSize="80" HorizontalAlignment="Center" Text="{Binding G.Name}" FontFamily="Vladimir Script" Foreground="#dc353e"/>
 
-            <!--<Button Grid.Column="0" Grid.Row="2" Height="150" HorizontalAlignment="Center" Click="Button_Click">
+            <Button x:ConnectionId='1' Grid.Column="0" Grid.Row="2" Height="150" HorizontalAlignment="Center"                     >
                 <Image Source="Assets/Chocclate.png"/>
             </Button>
 
-            <Button Grid.Column="1" Grid.Row="2" Height="200" HorizontalAlignment="Center" Background="Transparent" Click="Button_Click_1">
+            <Button x:ConnectionId='2' Grid.Column="1" Grid.Row="2" Height="200" HorizontalAlignment="Center" Background="Transparent"                       >
                 <Image Source="Assets/Gift.png"></Image>
             </Button>
 
-            <Button Grid.Column="2" Grid.Row="2" Height="200" HorizontalAlignment="Center" Background="Transparent" Click="Button_Click_2">
+            <Button x:ConnectionId='3' Grid.Column="2" Grid.Row="2" Height="200" HorizontalAlignment="Center" Background="Transparent"                       >
                 <Image Source="Assets/Drink.png"></Image>
-            </Button>-->
+            </Button>
+            
             <ListBox Grid.Row="0" Grid.Column="2" ItemsSource="{Binding G.Properties}" Background="Transparent">
                 <ListBox.ItemTemplate>
                     <DataTemplate>

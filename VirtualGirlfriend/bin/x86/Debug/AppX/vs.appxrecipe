@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>b150ba86-5f7c-44c7-a2b7-19ba9dc8a46d</PackageIdentityName>
     <PackageIdentityPublisher>CN=hqk200</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>C902602DFA4065E1F7E0A756A37AE0784E907EC1F5C46F3CCDA2AB24BCE0653C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>b150ba86-5f7c-44c7-a2b7-19ba9dc8a46d_1.0.0.0_x86__9xat5ytn7kgj6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>b150ba86-5f7c-44c7-a2b7-19ba9dc8a46d_9xat5ytn7kgj6!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-16T11:44:39.105</Modified>
+      <Modified>2018-03-19T11:25:23.394</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\VirtualGirlfriend.exe">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\VirtualGirlfriend.exe">
       <PackagePath>entrypoint\VirtualGirlfriend.exe</PackagePath>
-      <Modified>2018-03-16T11:44:38.222</Modified>
+      <Modified>2018-03-19T11:25:22.177</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,80 +495,80 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T21:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\background.jpg">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\background.jpg">
       <PackagePath>Assets\background.jpg</PackagePath>
       <Modified>2018-03-14T08:47:25.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Chocclate.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Chocclate.png">
       <PackagePath>Assets\Chocclate.png</PackagePath>
       <Modified>2018-03-13T12:08:46.103</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Drink.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Drink.png">
       <PackagePath>Assets\Drink.png</PackagePath>
       <Modified>2018-03-14T08:40:07.382</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Gift.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Gift.png">
       <PackagePath>Assets\Gift.png</PackagePath>
       <Modified>2018-03-14T08:34:07.519</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\VirtualGilfriend.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\VirtualGilfriend.png">
       <PackagePath>Assets\VirtualGilfriend.png</PackagePath>
       <Modified>2018-03-13T11:26:36.526</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-03-13T08:25:38.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-13T08:25:38.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-13T08:25:38.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-13T08:25:38.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-13T08:25:38.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-13T08:25:38.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-03-13T08:25:38.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-03-13T11:12:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\VirtualGirlfriend.xr.xml">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\VirtualGirlfriend.xr.xml">
       <PackagePath>VirtualGirlfriend.xr.xml</PackagePath>
-      <Modified>2018-03-16T11:31:42.595</Modified>
+      <Modified>2018-03-19T07:34:09.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-09-28T16:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-16T11:44:38.784</Modified>
+      <Modified>2018-03-19T11:25:23.012</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\source\repos\VirtualGirlfriend\VirtualGirlfriend\bin\x86\Debug\Core\VirtualGirlfriend.exe">
+    <AppxPackagedFile Include="C:\Users\hqk200.UNICPH.000\MyVitualGirlfriend\VirtualGirlfriend\bin\x86\Debug\Core\VirtualGirlfriend.exe">
       <PackagePath>VirtualGirlfriend.exe</PackagePath>
-      <Modified>2018-03-16T11:44:39.082</Modified>
+      <Modified>2018-03-19T11:25:23.368</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
